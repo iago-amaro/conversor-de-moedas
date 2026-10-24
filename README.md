@@ -33,7 +33,7 @@ pip install requests
 
 **3. Execute**
 ```bash
-python conversor.py
+python Conversor-de-moedas.py
 ```
 
 ## 🖥️ Exemplo de uso
