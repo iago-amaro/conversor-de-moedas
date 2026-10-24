@@ -37,6 +37,7 @@ python Conversor-de-moedas.py
 ```
 
 ## 🖥️ Exemplo de uso
+```
 Moedas disponíveis: AUD, BGN, BRL, CAD, CHF, CNY, CZK...
 De qual moeda? BRL
 Para quais moedas? USD EUR JPY
@@ -45,7 +46,7 @@ Qual valor? 100
 19.42 USD
 17.85 EUR
 2891.30 JPY
-
+```
 ## 👤 Autor
 
 **Iago Amaro**  
